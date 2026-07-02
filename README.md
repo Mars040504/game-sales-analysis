@@ -60,7 +60,7 @@
 1. Клонировать репозиторий.
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Mars040504/game-sales-analysis.git
 ```
 
 2. Установить зависимости.
@@ -69,7 +69,7 @@ git clone <repository_url>
 pip install -r requirements.txt
 ```
 
-3. Открыть ноутбук
+3. Открыть ноутбук.
 
 ```
 game_sales_analysis.ipynb
